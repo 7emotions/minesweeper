@@ -4,7 +4,7 @@
 
 ## Task Description
 
-Implement the Minesweeper game using the Processing library for graphics and gradle as a dependency manager. You can access the documentation from here. As with any assignment, make sure that your work is your own, and do not share your code or solutions with other students.
+Implement the Minesweeper game using the Processing library for graphics and gradle as a dependency manager. You can access the documentation from here. 
 
 Each tile in the 18x27 grid is initially blue (hidden), and may contain a mine. Your program must accept a parameter from command line arguments, which is the number of mines that should be spawned randomly on the board. If no parameter is provided, or an invalid one is, then the default is 100 mines.
 
